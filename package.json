@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-api-boilerplate",
+  "version": "1.0.0",
+  "description": "Starting project for Secured Node.js APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamchathu/nodejs-api-boilerplate.git"
+  },
+  "keywords": [
+    "Node.js",
+    "REST_API",
+    "API",
+    "Security",
+    "secure",
+    "boilerplate"
+  ],
+  "author": "Chathu Vishwajith (https://chathu.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamchathu/nodejs-api-boilerplate/issues"
+  },
+  "homepage": "https://github.com/iamchathu/nodejs-api-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.10"
+  }
+}
