@@ -60,3 +60,6 @@ typings/
 
 # Config files
 config/config.dev.js
+
+# Code Workspace
+*.code-workspace
